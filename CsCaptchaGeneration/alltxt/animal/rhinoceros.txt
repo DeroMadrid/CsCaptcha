@@ -1,0 +1,3 @@
+rhinoceros	[[a rhinoceros]] is [[a animal]]	@犀牛	
+rhinoceros	[[a rhinoceros]] is [[a animal]]	@犀牛
+rhinoceros	*Something you find at [[a zoo]] is [[a rhinoceros]]	@犀牛

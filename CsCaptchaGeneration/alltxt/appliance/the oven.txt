@@ -1,0 +1,2 @@
+the oven	*Something you find in [[the oven]] is [[food]]	@微波炉
+the oven	*Something you find in [[the oven]] is [[cakes]]    @微波炉

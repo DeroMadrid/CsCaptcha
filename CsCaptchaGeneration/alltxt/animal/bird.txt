@@ -1,0 +1,3 @@
+bird	[[bird]] is related to [[animal]]	
+bird	[[A bird]] can [[be a pet]]	@鹦鹉
+bird	[[A bird]] can [[be a pet]]	@鹦鹉

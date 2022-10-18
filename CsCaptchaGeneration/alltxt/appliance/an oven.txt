@@ -1,0 +1,3 @@
+an oven	[[baking a cake]] requires [[an oven]]	@微波炉
+an oven	[[an oven]] can [[warm a meal]]	@微波炉
+an oven	[[an oven]] can be [[found in a kitchen]]	@微波炉

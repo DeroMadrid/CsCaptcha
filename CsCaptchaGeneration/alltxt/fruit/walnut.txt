@@ -1,0 +1,5 @@
+walnut	[[A walnut]] has [[a shell]]	@核桃
+walnut	[[walnut]] is related to [[tree fruit]]	@核桃
+walnut	[[walnut]] is related to [[pistachio]]	@核桃
+walnut	[[walnut]] is related to [[hard]]	@核桃
+walnut	[[walnut]] is related to [[dry fruit]]	@核桃

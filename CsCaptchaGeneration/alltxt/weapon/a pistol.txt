@@ -1,0 +1,4 @@
+a pistol	You can use [[a pistol]] to [[kill things]]
+a pistol	[[a pistol]] is for [[shooting bullets]]
+a pistol	[[a pistol]] is used for [[shooting]]
+a pistol	[[A pistol]] can [[be a deadly weapon]]

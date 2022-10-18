@@ -1,0 +1,3 @@
+dolphin	[[A dolphin]] is [[an animal]]	@海豚
+dolphin	[[A dolphin]] is [[an animal]]	@海豚
+dolphin	[[A dolphin]] is [[an animal]]	@海豚

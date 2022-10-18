@@ -1,0 +1,2 @@
+hen	[[egg]] is related to [[hen]]	@母鸡
+hen	[[An egg]] is created by [[a hen]].	母鸡

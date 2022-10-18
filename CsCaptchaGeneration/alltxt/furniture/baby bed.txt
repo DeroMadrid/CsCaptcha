@@ -1,0 +1,5 @@
+baby bed	[[baby bed]] is a type of [[furniture]]
+baby bed	[[bassinet]] is a type of [[baby bed]]
+baby bed	[[carrycot]] is a type of [[baby bed]]
+baby bed	[[cradle]] is a type of [[baby bed]]
+baby bed	[[crib]] is a type of [[baby bed]]

@@ -1,0 +1,7 @@
+harp	[[A harp]] is [[an instrument]]
+harp	[[harp]] is related to [[instrument]]
+harp	[[a harp]] has [[strings]]
+harp	[[harp]] is used in the context of [[music]]
+harp	[[aeolian harp]] is a type of [[harp]]
+harp	[[harp]] is a type of [[chordophone]]
+harp	[[lyre]] is a type of [[harp]]

@@ -1,0 +1,6 @@
+lion	[[a lion]] is [[an animal]]	@狮子
+lion	[[a lion]] is [[an animal]]	@狮子
+lion	[[the lion]] is [[a carnivore]]	@狮子
+lion	[[a lion]] can [[roar]]	@狮子
+lion	[[a lion]] can [[hunt zebras]]	@狮子
+lion	You are likely to find [[a lion]] animal in [[the veldt]]	@狮子

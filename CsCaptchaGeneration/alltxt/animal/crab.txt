@@ -1,0 +1,12 @@
+crab	You are likely to find [[a crab]] in [[sand]]
+crab	You are likely to find [[a crab]] in [[a bay]]
+crab	*Something you find animal at [[the bottom of the sea]] is [[a crab]]
+crab	You are likely to find [[a crab]] in [[the sand at a beach]]
+crab	You are likely to find [[a crab]] in [[beach sand]]
+crab	You are likely to find animal [[a crab]] in [[the bottom of the ocean]]
+crab	You are likely to find [[a crab]] in [[a fish market]]
+crab	You are likely to find [[a crab]] in [[the freezer]]	@蒸螃蟹
+crab	You are likely to find [[a crab]] in [[salt water]]
+crab	You are likely to find [[a crab]] in [[a tide pool]]
+crab	You are likely to find [[a crab]] in [[a tidepool]]
+crab	[[a crab]] is a kind of [[crustacean]]

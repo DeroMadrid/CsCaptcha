@@ -1,0 +1,14 @@
+﻿banana	[[A banana]] is [[yellow]]	@香蕉
+banana	[[slip]] is related to [[banana]]	@香蕉
+banana	[[a monkey]] wants [[a banana]]	@香蕉
+banana	[[banana pudding]] is made of [[banana]]	@香蕉
+banana	[[banana]] is related to [[fruit]]	@香蕉
+banana	You are likely to find [[a banana]] in [[a monkey's hand]]	@香蕉
+banana	*Something you find in [[a pantry]] is [[a banana]]	@香蕉
+banana	[[A banana]] has [[a peel]]	@香蕉
+banana	[[A banana]] is an instance of [[a fruit]]	@香蕉
+banana	[[banana]] is a kind of [[dessert]]	@香蕉
+banana	[[a banana]] can be [[found in a fruit store]]	@香蕉
+banana	[[banana]] is related to [[yellow fruit]]	@香蕉
+banana	[[banana]] is related to [[bent fruit]]	@香蕉
+banana	[[banana]] is related to [[monkeys eat]]	@香蕉

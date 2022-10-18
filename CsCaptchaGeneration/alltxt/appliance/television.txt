@@ -1,0 +1,6 @@
+television	[[a television]] is [[an household appliance]]	@电视
+television	*Something you find on [[television]] is [[news]]	@电视
+television	[[watching the evening news]] requires [[a television]]	@电视
+television	[[viewing a film at home]] requires [[a television]]	@电视
+television	You can use [[a television]] to [[watch a movie]]	@电视
+television	[[Television]] is [[a form of Media]]	@电视

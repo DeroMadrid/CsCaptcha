@@ -1,0 +1,3 @@
+handgun	[[a handgun]] is a type of [[weapon]]
+handgun	[[a handgun]] is used for [[murder]]
+handgun	[[a handgun]] is used for [[shooting bullets]]

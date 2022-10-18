@@ -1,0 +1,6 @@
+chest_of_drawers	[[a chest of drawers]] can [[hold many things]]
+chest_of_drawers	[[a chest of drawers]] can [[store clothes]]
+chest_of_drawers	[[a chest of drawers]] is [[usefull for keeping clothes in]]
+chest_of_drawers	[[One kind of furniture]] is [[a chest of drawers]]
+chest_of_drawers	[[a chest of drawers]] is used for [[clothing storage]]
+chest_of_drawers	[[a chest of drawers]] is used for [[storage]]

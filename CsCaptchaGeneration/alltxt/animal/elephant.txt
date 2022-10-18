@@ -1,0 +1,3 @@
+elephant	[[an elephant]] has [[a trunk]]
+elephant	[[An elephant]] has [[tusks]]
+elephant	Something you find at [[a zoo]] is [[an elephant]]

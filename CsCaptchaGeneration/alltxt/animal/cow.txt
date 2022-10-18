@@ -1,0 +1,2 @@
+cow	[[cow]] is related to [[animal]]	@奶牛
+cow	[[cow]] is related to [[farm animal]]	@牛群

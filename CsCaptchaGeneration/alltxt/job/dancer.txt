@@ -1,0 +1,6 @@
+dancer	An activity [[a dancer]] can do is [[dance]]	@舞者
+dancer	[[ballet master]] is a type of [[dancer]]	@芭蕾舞
+dancer	[[ballet mistress]] is a type of [[dancer]]	@芭蕾舞
+dancer	[[belly dancer]] is a type of [[dancer]]	@肚皮舞
+dancer	[[dancer]] is a type of [[performer]]
+dancer	[[dancing partner]] is a type of [[dancer]]	@舞伴

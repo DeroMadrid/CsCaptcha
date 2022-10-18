@@ -1,0 +1,13 @@
+baseball	[[baseball]] is [[a sport]]	@打棒球
+baseball	[[a baseball]] is for [[playing baseball]]	@棒球球
+baseball	[[a bat]] is for [[baseball]]	@打棒球
+baseball	[[A baseball]] is [[round]]	@棒球球
+baseball	[[baseball]] is [[a game people play]]	@打棒球	
+baseball	[[bat]] is used in the context of [[baseball]]	@打棒球
+baseball	[[A baseball]] can be [[hit by a bat]]	@棒球球
+baseball	You are likely to find [[a baseball]] in [[a baseball game]]	@棒球球
+baseball	You are likely to find [[a baseball]] in [[a sporting goods store]]	@棒球球
+baseball	You can use [[a baseball]] to [[play baseball]]	@棒球球
+baseball	[[a baseball]] is for [[playing baseball with]]	@棒球球
+baseball	[[a baseball]] is used for [[playing the game of baseball]]	@棒球球
+baseball	[[scoring a home run]] is for [[baseball]]	@打棒球

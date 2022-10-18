@@ -1,0 +1,2 @@
+architect	[[an architect]] can [[complete a floor plan]]	@建筑师
+architect	[[An architect]] can [[position walls and plumbing with exactness]]	@建筑师

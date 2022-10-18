@@ -1,0 +1,13 @@
+horse	[[horse]] is related to [[animal]]	@horse+animal
+horse	[[horse]] is related to [[farm animal]]	@马群
+horse	[[horse]] is related to [[animal]]	@horse+animal
+horse	[[A horse]] has [[four legs]]	@horse+animal
+horse	[[horse]] is related to [[riding]]	@horse+animal
+horse	[[a horse]] is used for [[riding]]	@horse+animal
+horse	You are likely to find [[a horse]] in [[a cavalry]]	@骑兵
+horse	[[horse]] is related to [[donkey]]	@horse+animal
+horse	[[a horse]] can [[pull a cart]]	@horse+animal
+horse	[[horse]] is related to [[zebra]]	@horse+animal
+horse	[[horse]] is related to [[riding animal]]	@horse+animal
+horse	[[horse]] is related to [[hooves]]	@horse+animal
+horse	[[jockey]] is related to [[horse]]	@horse+animal

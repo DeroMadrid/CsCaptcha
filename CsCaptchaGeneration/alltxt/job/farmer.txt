@@ -1,0 +1,10 @@
+farmer	[[A farmer]] can [[farm his land]]	@农民
+farmer	[[a farmer]] can [[feed the chickens]]	@农民
+farmer	[[a farmer]] can [[seed the field]]	@农民
+farmer	[[farmer]] is related to [[crops]]	@农民
+farmer	[[farmer]] is related to [[farm]]	@农民
+farmer	[[a farmer]] can [[gather his crops]]	@农民
+farmer	[[a farmer]] can [[water the crops]]	@农民
+farmer	[[farmer]] is related to [[fields]]	@农民
+farmer	[[farmer]] is related to [[agriculture]]	@农民
+farmer	[[The farmer]] can [[fence the field]]	@农民

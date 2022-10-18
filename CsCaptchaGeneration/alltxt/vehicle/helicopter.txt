@@ -1,0 +1,5 @@
+helicopter	[[helicopter]] is related to [[pilot]]
+helicopter	[[helicopter]] is used for [[fly]]
+helicopter	[[A helicopter]] can [[land on a roof]]
+helicopter	[[a helicopter]] is [[more expensive than a car]]
+helicopter	[[A helicopter]] is a type of [[flying vehicle]]

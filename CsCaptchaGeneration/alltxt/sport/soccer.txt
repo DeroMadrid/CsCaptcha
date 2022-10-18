@@ -1,0 +1,4 @@
+soccer	[[Soccer]] is [[played on a field of grass]]	@足球比赛
+soccer	[[soccer]] is [[played on a soccer field]]	@足球比赛
+soccer	[[kick]] is related to [[soccer]]	@足球比赛
+soccer	[[soccer]] is related to [[ball kicking]]	@足球比赛

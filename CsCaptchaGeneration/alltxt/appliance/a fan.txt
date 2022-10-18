@@ -1,0 +1,6 @@
+﻿a fan	You can use [[a fan]] to [[cool off]]	@风扇
+A fan	[[A fan]] can [[cool a room]]	@风扇
+A fan	[[A fan]] is used to [[cool people down]]	@风扇
+A fan	[[A fan]] can [[cool your skin]]	@风扇
+a fan	[[a fan]] is [[an electrical device]]	@风扇
+a fan	[[a fan]] is related to [[wind]]	@风扇

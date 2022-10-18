@@ -1,0 +1,2 @@
+kangaroo	You are likely to find [[a kangaroo]] animal in [[Australia]]	@澳蒂袋鼠
+kangaroo	[[a kangaroo]] can [[jump high]]	@澳蒂袋鼠

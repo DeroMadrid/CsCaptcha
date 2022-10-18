@@ -1,0 +1,12 @@
+dresser	[[a dresser]] is [[another word for chest of drawers]]	@化妆桌
+dresser	[[A dresser]] is [[a large heavy piece of furniture]]	@化妆桌
+dresser	[[a drawer]] is part of [[a dresser]]	@化妆桌
+dresser	[[a dresser]] can be [[found in a house]]	@化妆桌
+dresser	[[a dresser]] is for [[furnishing a room]]	@化妆桌
+dresser	[[a dresser]] is for [[supporting a mirror]]	@化妆桌
+dresser	[[dresser]] is related to [[furniture]]	@化妆桌
+dresser	[[dresser]] is related to [[wardrobe]]	@化妆桌
+dresser	[[dresser]] is related to [[drawers]]	@化妆桌
+dresser	[[dresser]] is related to [[bedroom furniture]]	@化妆桌
+dresser	[[dresser]] is related to [[hold clothes]]	@衣柜
+dresser	[[dresser]] is related to [[store clothes]]	@衣柜

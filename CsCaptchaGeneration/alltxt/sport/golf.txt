@@ -1,0 +1,3 @@
+﻿golf	[[golf course]] is used in the context of [[golf]]	@打高尔夫
+golf	[[golf equipment]] is used in the context of [[golf]]	@打高尔夫
+golf	[[golf]] is related to [[balls holes]]	@打高尔夫

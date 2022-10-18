@@ -1,0 +1,4 @@
+jeep	[[jeep]] is a kind of [[four wheeled vehicle]]
+jeep	[[jeep]] is a kind of [[off-road vehicle]]
+jeep	[[jeep]] can [[climb hills]]
+jeep	[[jeep]] is related to [[four wheel]]

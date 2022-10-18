@@ -1,0 +1,5 @@
+﻿football	[[football]] is a kind of [[sport]]	@踢足球
+football	[[playing football]] requires [[a football]]	@足球球
+football	[[football]] is [[a physical activity]]	@踢足球
+football	[[playing soccer]] requires [[a football]]	@足球球
+football	[[a football]] is [[played on the grass]]	@踢足球

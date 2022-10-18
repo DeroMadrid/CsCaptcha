@@ -1,0 +1,8 @@
+wardrobe	You can use [[a wardrobe]] to [[hang your clothes in]]
+wardrobe	[[A wardrobe]] is for [[keeping clothes]]
+wardrobe	You can use [[a wardrobe]] to [[put clothes in]]
+wardrobe	You are likely to find [[a clothing shelf]] in [[a wardrobe]]
+wardrobe	You are likely to find [[coats]] in [[a wardrobe]]
+wardrobe	You are likely to find [[a handbag]] in [[a wardrobe]]
+wardrobe	[[A wardrobe]] is [[a furniture item]]
+wardrobe	[[A wardrobe]] is [[a place for storing clothes]]

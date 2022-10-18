@@ -1,0 +1,5 @@
+bedstead	[[bedstead]] is a type of [[furniture]]
+bedstead	[[bedpost]] is a part of [[bedstead]]
+bedstead	[[bedspring]] is a part of [[bedstead]]
+bedstead	[[bedstead]] is a part of [[bed]]
+bedstead	[[headboard]] is a part of [[bedstead]]

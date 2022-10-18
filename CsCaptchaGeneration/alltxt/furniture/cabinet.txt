@@ -1,0 +1,4 @@
+cabinet	[[cabinet]] is related to [[storing]]	@橱柜
+cabinet	[[cabinet]] is related to [[shelf]]	@橱柜
+cabinet	[[cabinet]] is related to [[storing food]]	@橱柜
+cabinet	[[cabinet]] is related to [[storing plates]]	@橱柜

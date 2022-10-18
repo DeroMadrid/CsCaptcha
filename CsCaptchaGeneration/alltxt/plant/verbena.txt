@@ -1,0 +1,3 @@
+verbena	[[Verbena]] is [[a plant]]
+verbena	[[verbena]] is a type of [[flower]]
+verbena	[[vervain]] is a synonym of [[verbena]]

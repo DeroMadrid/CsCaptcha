@@ -1,0 +1,4 @@
+cello	[[a cello]] is [[an instrument]]
+cello	[[violin]] is related to [[cello]]
+cello	[[a cello]] is [[an instrument]]
+cello	[[cello]] is a type of [[bowed stringed instrument]]

@@ -1,0 +1,2 @@
+zebra	*Something you find at [[a zoo]] is [[a zebra]]	@斑马
+zebra	[[horse]] is related to [[zebra]]	@斑马

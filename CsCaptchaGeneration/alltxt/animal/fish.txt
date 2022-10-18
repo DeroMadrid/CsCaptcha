@@ -1,0 +1,27 @@
+﻿fish	[[fish]] is related to [[animal]]	@鱼 动物
+fish	Something you find in [[an aquarium]] is [[fish]]	@鱼 动物
+fish	You are likely to find [[a fish]] animal in [[a river]]	@鱼 动物
+fish	[[fish]] animal is related to [[ocean]]	@鱼 动物
+fish	You are likely to find [[a fish]] in [[a pond]]	@金鱼
+fish	[[a fish]] can [[live underwater]]	@鱼 动物
+fish	[[fish]] is related to [[water animal]]	@鱼 动物
+fish	[[Fish]] can [[be pets]]	@金鱼
+fish	*Something you find at [[the bottom of the sea]] is [[fish]]	@海底鱼群
+fish	[[Fish]] can [[live in lakes]]	@湖鱼
+fish	[[A fish]] has [[fins]]	@鱼 动物
+fish	[[fish]] do not [[live on land]]	@鱼 动物
+fish	[[fish]] is related to [[swimming animal]]	@鱼 动物
+fish	[[fish]] is related to [[sea creature]]	@海底鱼群
+fish	[[fish]] is related to [[marine]]	@海底鱼群
+fish	[[fish]] is related to [[aquatic animal]]	@鱼 动物
+fish	[[fish]] is related to [[water creature]]	@鱼 动物
+fish	[[fish]] is related to [[underwater animal]]	@海底鱼群
+fish	[[fish]] is related to [[seafood]]	@海鱼
+fish	[[fish]] is related to [[swimming creature]]	@海底鱼群
+fish	[[fish]] can [[breath in the water]]	@鱼 动物
+fish	[[A fish]] can [[die out of water]]	@鱼 动物
+fish	[[Fish]] may [[live in a bay]]	@鱼 动物
+fish	[[Fish]] may [[live in a lake]]	@鱼 动物
+fish	[[fish]] sometimes [[live in ponds]]	@湖鱼
+fish	[[Fish]] sometimes [[live very deep in the sea]]	@海底鱼群
+fish	[[fish]] is related to [[marine animal]]	@海洋动物

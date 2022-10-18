@@ -1,0 +1,9 @@
+sheep	[[sheep]] is related to [[animal]]	@绵羊
+sheep	[[sheep]] is related to [[farm animal]]	@羊群
+sheep	[[wool]] is related to [[sheep]]	@羊群
+sheep	[[sheep]] is related to [[animal]]	@羊群
+sheep	[[sheep]] is related to [[wool]]	@羊群
+sheep	[[sheep]] is related to [[mammal]]	@羊群
+sheep	[[sheep]] is related to [[farm animal]]	@羊群
+sheep	[[sheep]] is related to [[wooly animal]]	@羊群
+sheep	[[shepherd]] is related to [[sheep]]]	@羊群

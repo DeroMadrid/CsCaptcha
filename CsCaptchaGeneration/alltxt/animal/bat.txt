@@ -1,0 +1,6 @@
+﻿bat	[[bat]] is related to [[animal]]	@蝙蝠动物
+bat	[[bat]] is related to [[flying]]	@蝙蝠动物	
+bat	You are likely to find [[a bat]] in [[cave]]	@蝙蝠动物
+bat	[[bat]] is related to [[wings]]	@蝙蝠动物
+bat	[[bat]] is related to [[vampire]]	@蝙蝠动物
+bat	[[bat]] is related to [[flying mammal]]	@蝙蝠动物

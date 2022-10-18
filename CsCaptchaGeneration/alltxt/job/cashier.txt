@@ -1,0 +1,3 @@
+cashier	Someone you find at [[the market]] is [[a cashier]]
+cashier	Someone you find at [[the supermarket]] is [[a cashier]]
+cashier	Someone you find at [[a shop]] is [[a cashier]]

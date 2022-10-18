@@ -1,0 +1,4 @@
+pig	[[pig]] is related to [[animal]]	@猪
+pig	[[pig]] is related to [[farm animal]]	@家猪
+pig	[[pig]] is related to [[pork]]	@家猪
+pig	[[pig]] is related to [[bacon]]	@家猪

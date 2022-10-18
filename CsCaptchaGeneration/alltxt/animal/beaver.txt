@@ -1,0 +1,3 @@
+beaver	You are likely to find [[a beaver]] in [[a zoo]]	@海狸
+beaver	[[A beaver]] is [[an animal]]	@海狸
+beaver	[[The beaver]] is [[a mammal]]	@海狸

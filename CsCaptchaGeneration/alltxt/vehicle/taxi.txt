@@ -1,0 +1,2 @@
+taxi	[[taxi]] is a way to [[travel]]
+taxi	[[A taxi]] is [[a form of transportation]]

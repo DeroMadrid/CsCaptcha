@@ -1,0 +1,2 @@
+pear	[[pear]] is related to [[fruit]]
+pear	[[pear]] is related to [[green]]	@绿梨

@@ -1,0 +1,5 @@
+a computer	[[a computer]] is [[an electronic device]]	@电脑
+a computer	You can use [[a computer]] to [[play games]]	@电脑
+a computer	[[a computer]] is used for [[accessing the internet]]	@电脑
+a computer	[[a computer]] is used for [[playing games]]	@电脑
+a computer	[[a computer]] is for [[calculations]]	@电脑

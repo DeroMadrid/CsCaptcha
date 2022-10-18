@@ -1,0 +1,5 @@
+oven	[[oven]] is related to [[appliance]]	@微波炉
+oven	*Something you find in [[the oven]] is [[pizza]]	@微波炉
+oven	*Something you find in [[the oven]] is [[a pie]]	@微波炉
+oven	[[oven]] is a type of [[kitchen appliance]]	@微波炉
+oven	[[oven]] is related to [[cooking]]	@微波炉

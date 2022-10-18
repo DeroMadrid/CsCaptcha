@@ -1,0 +1,2 @@
+butterfly	[[A butterfly]] is [[an insect]]	@蝴蝶
+butterfly	[[a butterfly]] can [[fly]]	@蝴蝶

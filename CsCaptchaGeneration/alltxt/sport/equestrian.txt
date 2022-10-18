@@ -1,0 +1,5 @@
+equestrian	[[Equestrian]] is [[a sport]]
+equestrian	[[horse]] is related to [[equestrian]]
+equestrian	[[Equestrian]] is [[an olympic sport]]
+equestrian	[[equestrian]] is [[a person who rides on horseback]]
+equestrian	[[A person who rides a horse]] is [[equestrian]]

@@ -1,0 +1,7 @@
+monkey	You are likely to find [[a monkey]] in [[the circus]]	@猴子
+monkey	You are likely to find [[a monkey]] animal in [[the tropical forest]]	@猴子
+monkey	[[a monkey]] wants to [[eat a banana]]	@猴子
+monkey	You are likely to find [[a monkey]] animal in [[the jungel]]	@猴子
+monkey	You are likely to find [[a monkey]] animal in [[the rain forest]]	@猴子
+monkey	You are likely to find [[a monkey]] in [[a cage at the zoo]]	@猴子
+monkey	You are likely to find [[a monkey]] in [[the treetops]]	@猴子

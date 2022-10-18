@@ -1,0 +1,5 @@
+﻿bear	[[bear]] is related to [[animal]]	@狗熊
+bear	[[bear]] is related to [[animal]]	@狗熊
+bear	[[bear]] is related to [[mammal]]	@狗熊
+bear	[[A bear]] is [[a mammal]]	@狗熊
+bear	[[grizzly]] is related to [[bear]]	@狗熊

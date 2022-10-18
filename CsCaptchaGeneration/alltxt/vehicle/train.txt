@@ -1,0 +1,7 @@
+train	[[A train]] can [[run on railroad tracks]]
+train	[[railroad]] is related to [[train]]
+train	[[train]] is related to [[railway]]
+train	[[train]] is related to [[on rails]]
+train	[[train]] is related to [[rails]]
+train	[[train]] is related to [[rail]]
+train	[[train]] is related to [[rail transportation]]

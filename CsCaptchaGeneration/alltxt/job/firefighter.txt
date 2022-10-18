@@ -1,0 +1,5 @@
+firefighter	[[firefighter]] is a synonym of [[fireman]]
+firefighter	An activity [[a firefighter]] can do is [[pull a hose]]
+firefighter	[[a firefighter]] can [[put out a fire]]
+firefighter	[[a firefighter]] can [[rush to a burning building]]
+firefighter	[[A firefighter]] wants to [[put out fires]]

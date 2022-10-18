@@ -1,0 +1,7 @@
+soda	[[soda]] is related to [[fizzy]]	@苏打水
+soda	[[soda]] is related to [[carbonation]]	@苏打水
+soda	[[soda]] is related to [[can drink]]	@苏打水
+soda	[[soda]] is related to [[cola]]	@cola
+soda	[[soda]] is related to [[bubbly]] @香槟酒
+soda	[[soda]] is related to [[bubbly water]]	@香槟酒
+soda	[[soda]] is related to [[fizzy drink]]	@苏打水

@@ -1,0 +1,3 @@
+cherry	[[A cherry]] has [[a pit in the middle]]	@樱桃
+cherry	[[cherry]] is related to [[round]]	@樱桃
+cherry	[[cherry]] is related to [[small and red]]	@樱桃

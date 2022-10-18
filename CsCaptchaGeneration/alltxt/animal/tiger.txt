@@ -1,0 +1,1 @@
+tiger	[[A tiger]] is [[an animal]]	@tiger+animal

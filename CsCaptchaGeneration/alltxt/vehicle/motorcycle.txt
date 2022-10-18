@@ -1,0 +1,5 @@
+motorcycle	[[a motorcycle]] has [[two wheels]]
+motorcycle	[[motorcycle]] is a type of [[motor vehicle]]
+motorcycle	[[helmet]] is related to [[motorcycle]]
+motorcycle	[[A motorcycle]] has [[two wheels and can go fast]]
+motorcycle	[[a motorcycle]] is [[faster than a bicycle]]

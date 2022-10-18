@@ -1,0 +1,8 @@
+coat	[[button]] is a part of [[coat]]
+coat	[[a button]] is part of [[a coat]].
+coat	*Something you find in [[a closet]] is [[a coat]]
+coat	[[coat]] is related to [[jacket]]
+coat	[[a coat]] is for [[keeping warm]]
+coat	[[jacket]] is related to [[coat]]
+coat	[[coat]] is related to [[outerwear]]
+coat	You are likely to find [[a coat]] in [[wardrobe]]

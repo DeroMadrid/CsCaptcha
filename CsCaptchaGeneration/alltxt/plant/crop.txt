@@ -1,0 +1,3 @@
+crop	[[crop]] is related to [[farm]]	@作物
+crop	[[crop]] is related to [[field]]	@作物
+crop	[[crop]] is related to [[plant]]	@作物

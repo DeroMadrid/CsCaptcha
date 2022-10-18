@@ -1,0 +1,3 @@
+rose	[[flower]] is related to [[rose]]	@rose flower
+rose	[[thorn]] is related to [[rose]]	@rose flower
+rose	[[The rose]] has [[thorns]]	@rose flower

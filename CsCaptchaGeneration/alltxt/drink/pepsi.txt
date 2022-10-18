@@ -1,0 +1,14 @@
+pepsi	[[pepsi]] is for [[drinking]].	@可乐
+pepsi	[[Pepsi]] is [[a soda]]	@cola
+pepsi	[[pepsi]] is [[a drink]]	@cola
+pepsi	[[Pepsi]] is [[a soft drink]]	@cola
+pepsi	[[pepsi]] is [[a beverage]]	@cola
+pepsi	[[Pepsi]] is a type of [[cola]]	@cola
+pepsi	You are likely to find [[pepsi]] in [[the fridge]].	@cola
+pepsi	[[pepsi]] is [[a brand name for a soda]]	@百事logo
+pepsi	[[Pepsi]] is [[a competitor of coke]]	@cola
+pepsi	[[Pepsi]] is [[a popular carbonated drink]]	@cola
+pepsi	[[Pepsi]] is [[a popular soda]]	@cola
+pepsi	[[pepsi]] is made of [[carbonated water]].	@cola
+pepsi	[[pepsi]] is made of [[high fructose corn syrup]].	@cola
+pepsi	[[pepsi]] is made of [[sugar]].	@cola

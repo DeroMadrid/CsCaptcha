@@ -1,0 +1,17 @@
+basketball	[[a basketball]] is [[round]]	@篮球商品
+basketball	[[Basketball]] is [[a fast and physically demanding sport]]	@打篮球
+basketball	[[a basketball]] is [[filled with air]]	@篮球商品
+basketball	You are likely to find [[a basketball]] in [[a basketball court]]	@篮球商品
+basketball	You are likely to find [[a basketball]] in [[a basketball game]]	@篮球商品
+basketball	[[backboard]] is used in the context of [[basketball]]	@篮球商品
+basketball	You are likely to find [[a basketball]] in [[a gymnasium]]	@篮球商品
+basketball	*Something you find in [[a sporting goods store]] is [[a basketball]]	@篮球商品
+basketball	[[a basketball]] is [[big and orange]]	@篮球商品
+basketball	[[a basketball]] is [[orange in color and round]]	@篮球商品
+basketball	[[basketball]] is [[a ball game]]	@篮球商品	
+basketball	[[A basketball]] is [[a good example of a sphere]]	@篮球商品
+basketball	[[A basketball]] is [[used when playing basketball]]	@篮球商品
+basketball	[[a basketball]] is for [[shooting a basket]]	@篮球商品
+basketball	You can use [[a basketball]] to [[spin on a finger]]	@篮球商品
+basketball	[[a basketball]] is for [[throwing through a hoop or basket]]	@篮球商品
+basketball	[[a basketball court]] is for [[basketball]]	@篮球商品

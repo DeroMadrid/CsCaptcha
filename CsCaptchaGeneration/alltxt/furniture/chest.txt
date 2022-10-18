@@ -1,0 +1,16 @@
+chest	[[a chest]] is used for [[storage]]	@宝箱
+chest	[[a chest]] is for [[storing clothes]]	@衣箱
+chest	You are likely to find [[a chest]] in [[an antique shop]]	@宝箱
+chest	[[A chest]] contains [[or holds something]]	@宝箱
+chest	[[A chest]] is [[a container]]	@宝箱
+chest	[[a chest]] is for [[hiding objects]]	@宝箱
+chest	[[a chest]] is for [[keeping treasure in]]	@宝箱
+chest	[[A chest]] can be used to [[store items]]	@宝箱
+chest	[[A chest]] is used to [[store things in, especially clothes]]	@衣箱
+chest	[[a chest]] is used for [[storing clothing]]	@衣箱
+chest	[[a chest]] is for [[storing family historical documents]]	@宝箱
+chest	[[a chest]] is for [[storing valuables]]	@宝箱
+chest	[[chest]] is related to [[container]]	@宝箱
+chest	[[box]] is related to [[chest]]	@衣箱
+chest	[[chest]] is related to [[storage]]	@宝箱
+chest	[[chest]] is related to [[clothes box]]	@衣箱

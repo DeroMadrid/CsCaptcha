@@ -1,0 +1,15 @@
+tea	[[tea]] can [[be drank]]	@茶水
+tea	[[tea]] is created by [[steeping tea leaves in hot water]].	@煮茶
+tea	[[Tea]] contains [[about 2% to 3% caffeine]]	@茶叶
+tea	[[tea]] is related to [[drink]]	@茶水
+tea	[[tea]] is related to [[leaf drink]]	@茶水
+tea	[[tea]] is related to [[drinks]]	@茶水
+tea	[[tea]] is related to [[green drink]]	@茶水
+tea	[[tea]] is related to [[hot drinks]]	@茶水
+tea	[[tea]] is related to [[warm drink]]	@茶水
+tea	[[tea]] is [[a drink]]	@茶水
+tea	[[Tea]] contains [[caffeine]]	@茶叶
+tea	*Something you find in [[a cupboard]] is [[tea]]	@茶水
+tea	[[Tea]] is [[a beverage]]	@茶水
+tea	[[oolong]] is a type of [[tea]]	@茶水
+tea	[[tea]] is a type of [[herb]]	@茶叶

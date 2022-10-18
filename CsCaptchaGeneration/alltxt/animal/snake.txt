@@ -1,0 +1,3 @@
+﻿snake	You are likely to find [[a snake]] in [[a tropical forest]]	@蟒蛇
+snake	You are likely to find [[a snake]] in [[a hole in the ground]]	@蟒蛇
+snake	You are likely to find [[a snake]] in [[a cave]]	@蟒蛇

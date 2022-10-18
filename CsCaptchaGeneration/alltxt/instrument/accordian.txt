@@ -1,0 +1,9 @@
+accordian	[[An accordian]] is [[a musical instrument]]	@手风琴
+accordian	You are likely to find [[an accordian bag]] in [[an accordian]]	@手风琴
+accordian	[[An accordian]] has [[shoulder straps]]	@手风琴
+accordian	[[An accordian]] has [[straps]]	@手风琴
+accordian	[[an accordian]] is a kind of [[an instrument]]	@手风琴
+accordian	[[An accordian]] is [[hung on the chest]]	@手风琴
+accordian	[[An accordian]] is [[played with the arms and hands]]	@手风琴
+accordian	[[an accordian bag]] is for [[an accordian]]	@手风琴
+accordian	You can use [[an accordian]] to [[play a polka tune]]	@手风琴

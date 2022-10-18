@@ -1,0 +1,2 @@
+sunflower	[[common sunflower]] is a type of [[sunflower]]
+sunflower	[[giant sunflower]] is a type of [[sunflower]]

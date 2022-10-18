@@ -1,0 +1,2 @@
+weapon	[[a weapon]] is [[harmful]]	@武器
+weapon	[[missile]] is a type of [[weapon]]	@导弹

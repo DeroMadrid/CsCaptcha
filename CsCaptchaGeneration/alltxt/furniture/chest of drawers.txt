@@ -1,0 +1,6 @@
+chest of drawers	You can use [[a chest of drawers]] to [[store clothes]]
+chest of drawers	You are likely to find [[a T-shirt]] in [[a chest of drawers]]
+chest of drawers	[[chest of drawers]] is a type of [[furniture]]
+chest of drawers	[[lowboy]] is a type of [[chest of drawers]]
+chest of drawers	[[drawer]] is a part of [[chest of drawers]]
+chest of drawers	[[shelf]] is a part of [[chest of drawers]]

@@ -1,0 +1,3 @@
+crow	[[crow]] is a [[bird]]	@乌鸦
+crow	[[crow]] is related to [[bird]]	@乌鸦
+crow	[[crow]] is related to [[black animal]]	@乌鸦

@@ -1,0 +1,4 @@
+wrestling	[[wrestling]] is a kind of [[sport]]	@摔跤
+wrestling	[[wrestling]] is for [[competitive sport]]	@摔跤
+wrestling	[[wrestling]] is for [[violent playing]]	@摔跤
+wrestling	[[fight]] is related to [[wrestling]]	@摔跤

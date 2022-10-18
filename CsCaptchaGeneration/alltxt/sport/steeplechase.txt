@@ -1,0 +1,2 @@
+steeplechase	[[steeplechase]] is [[a sports]]	@跨栏
+steeplechase	[[hurdle]] is related to [[steeplechase]]	@跨栏

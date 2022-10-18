@@ -1,0 +1,3 @@
+smoothie	You are likely to find [[a smoothie]] in [[the fridge]].
+smoothie	[[a smoothie]] is created by [[blending ingredients]].
+smoothie	[[a smoothie]] is a kind of [[drink]].

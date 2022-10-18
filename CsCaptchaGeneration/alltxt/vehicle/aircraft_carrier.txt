@@ -1,0 +1,2 @@
+aircraft_carrier	You are likely to find [[airplanes]] in [[aircraft carrier]]
+aircraft_carrier	[[an aircraft carrier]] can [[carry aircraft]]

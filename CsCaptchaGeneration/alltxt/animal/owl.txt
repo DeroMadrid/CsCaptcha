@@ -1,0 +1,4 @@
+owl	[[owl]] is related to [[bird]]	@猫头鹰
+owl	[[An owl]] can [[hear a mouse]]	@猫头鹰
+owl	[[an owl]] can [[rest during the day]]	@猫头鹰
+owl	[[an owl]] can [[see at night]]	@猫头鹰

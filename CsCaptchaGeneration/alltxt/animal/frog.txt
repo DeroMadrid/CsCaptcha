@@ -1,0 +1,3 @@
+﻿frog	You are likely to find [[a frog]] in [[a pond]]	@青蛙
+frog	Something you find on [[the lawn]] is [[a frog]]	@青蛙
+frog	[[A frog]] is [[green]]	@青蛙

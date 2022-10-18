@@ -1,0 +1,3 @@
+black_tea	[[black tea]] is a type of [[tea]]
+black_tea	[[congou]] is a type of [[black tea]]
+black_tea	[[Black tea]] is [[one variety of tea]]

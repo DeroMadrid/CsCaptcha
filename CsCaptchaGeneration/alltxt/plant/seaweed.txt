@@ -1,0 +1,4 @@
+seaweed	*Something you find in [[the water]] is [[seaweed]]	@海草
+seaweed	[[Something you find underwater]] is [[seaweed]]	@海草
+seaweed	[[Seaweed]] is [[a plant]]	@海草
+seaweed	[[seaweed]] is related to [[plant]]	@海草

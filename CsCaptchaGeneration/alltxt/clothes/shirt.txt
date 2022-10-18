@@ -1,0 +1,7 @@
+shirt	[[dress]] is related to [[shirt]]
+shirt	[[clothing]] is related to [[shirt]]
+shirt	You are likely to find [[cotton]] in [[a shirt]] clothing
+shirt	[[coat]] is related to [[shirt]]
+shirt	[[size]] is related to [[shirt]]
+shirt	[[pants]] is the opposite of [[shirt]]
+shirt	You are likely to find [[a shirt]] in [[closet]]

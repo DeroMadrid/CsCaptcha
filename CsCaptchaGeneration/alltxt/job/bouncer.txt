@@ -1,0 +1,3 @@
+bouncer	[[bouncer]] is a type of [[guard]]	@保镖
+bouncer	An activity [[a bouncer]] can do is [[prevent passage]]	@保镖
+bouncer	[[a bouncer]] can [[ring your neck]]	@保镖

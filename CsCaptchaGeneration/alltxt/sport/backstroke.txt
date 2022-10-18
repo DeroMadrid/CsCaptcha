@@ -1,0 +1,4 @@
+backstroke	[[swim]] is related to [[backstroke]]	@仰泳
+backstroke	[[backstroke]] is used in the context of [[water sport]]	@仰泳
+backstroke	[[backstroke]] is a way to [[swim]]	@仰泳
+backstroke	Something that might happen when you [[go for a swim]] is [[backstroke]]	@仰泳

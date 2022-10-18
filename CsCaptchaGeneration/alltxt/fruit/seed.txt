@@ -1,0 +1,7 @@
+seed	[[seed]] is related to [[growing]]  @种子发芽
+seed	[[seed]] is related to [[baby plant]]	@种子发芽
+seed	[[seed]] is related to [[planting]]	@种子发芽
+seed	[[seed]] is related to [[germination]]	@种子发芽
+seed	[[A seed]] can [[become a tree]]	@种子发芽
+seed	[[a seed]] can [[grow into a tree]].	@种子发芽
+seed	[[a seed]] can [[sprout]]	@种子发芽

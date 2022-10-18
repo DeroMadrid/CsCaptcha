@@ -1,0 +1,6 @@
+butcher	[[butcher]] is related to [[meat]]	@屠夫
+butcher	[[A butcher]] can [[cut the meat]]	@屠夫
+butcher	[[butcher]] is a type of [[murderer]]	@屠夫
+butcher	[[pork butcher]] is a type of [[butcher]]	@屠夫
+butcher	[[meatman]] is a synonym of [[butcher]]	@屠夫
+butcher	[[slaughterer]] is a synonym of [[butcher]]	@屠夫

@@ -1,0 +1,8 @@
+pineapple	Something you find on [[a pizza]] is [[pineapple]]	@凤梨
+pineapple	[[pineapple]] is related to [[fruit]]	@凤梨
+pineapple	[[Pineapple]] is [[a citrus fruit]]	@凤梨
+pineapple	[[pineapple]] is related to [[pizza]]	@凤梨
+pineapple	[[pineapple]] is related to [[spiky]]	@凤梨
+pineapple	[[pineapple]] is related to [[hawaiian fruit]]	@凤梨
+pineapple	[[pineapple]] is related to [[yellow fruit]]	@凤梨
+pineapple	[[pineapple]] is related to [[tropical fruit]]	@凤梨

@@ -1,0 +1,3 @@
+﻿tank	[[tank]] is a kind of [[off-road vehicle]].	@坦克
+tank	[[tank]] is a type of [[armored vehicle]]	@坦克
+tank	[[tank]] is a type of [[military vehicle]]	@坦克

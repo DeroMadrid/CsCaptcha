@@ -1,0 +1,8 @@
+seat	You can use [[a seat]] to [[relax]]
+seat	[[seat]] is related to [[sit on]]
+seat	[[sitting down]] requires [[a seat]]
+seat	You can use [[a seat]] to [[get some rest]]
+seat	[[a seat]] is for [[relaxing]]
+seat	[[a seat]] is for [[resting]]
+seat	[[a seat]] is for [[sitting upon]]
+seat	[[seat]] is related to [[sit down]]

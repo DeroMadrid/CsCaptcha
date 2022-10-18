@@ -1,0 +1,3 @@
+toaster	[[toaster]] is related to [[appliance]]
+toaster	[[toaster]] is related to [[bread]]
+toaster	[[A toaster]] is for [[making toast]]

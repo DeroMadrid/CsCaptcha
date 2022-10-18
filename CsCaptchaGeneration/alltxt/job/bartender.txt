@@ -1,0 +1,3 @@
+bartender	Someone you find at [[a bar]] is [[a bartender]]	@酒保
+bartender	[[barmaid]] is a type of [[bartender]]	@酒保
+bartender	[[mixologist]] is a synonym of [[bartender]]	@酒保

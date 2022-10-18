@@ -1,0 +1,2 @@
+journalist	[[photojournalist]] is a type of [[journalist]]	@记者
+journalist	[[sports writer]] is a type of [[journalist]]	@记者

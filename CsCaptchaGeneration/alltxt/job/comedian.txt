@@ -1,0 +1,4 @@
+comedian	[[a comedian]] can [[laugh at her own jokes]]	@喜剧演员
+comedian	[[A comedian]] can [[time a joke]]	@喜剧演员
+comedian	[[a comedian]] wants to [[make people laugh]]	@喜剧演员
+comedian	[[comedian]] is a type of [[actor]]	@喜剧演员

@@ -1,0 +1,6 @@
+﻿duck	[[duck]] is related to [[animal]]	@鸭子
+duck	[[a duck]] has [[webbed feet]]	@鸭子
+duck	You are likely to find [[a duck]] in [[the lake]]	@鸭子
+duck	[[duck]] is related to [[goose]]	@鸭子
+duck	[[duck]] is related to [[water bird]]	@鸭子
+duck	[[duck]] is related to [[swan]]	鸭子

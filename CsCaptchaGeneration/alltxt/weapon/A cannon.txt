@@ -1,0 +1,3 @@
+﻿A cannon	[[A cannon]] can [[fire a cannonball]]	@大炮
+a cannon	[[a cannon]] is [[used in war]]	@大炮
+a cannon	You are likely to find [[a cannon]] in [[a pirate ship]]	@大炮

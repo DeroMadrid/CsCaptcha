@@ -1,0 +1,3 @@
+fox	[[fox]] is related to [[animal]]	@狐狸动物
+fox	[[A fox]] is [[an animal]]	@狐狸动物
+fox	[[fox]] is related to [[animal]]	@狐狸动物

@@ -1,0 +1,25 @@
+diving	[[diving]] is for [[entering water]]	@潜水
+diving	[[a swimming pool]] is for [[diving]]	@潜水
+diving	[[diving]] requires [[skill in swimming]]	@潜水
+diving	[[diving]] requires [[swimming skill]]	@潜水
+diving	[[diving]] is for [[observing species which live underwater]]	@潜水
+diving	Something that might happen as a consequence of [[diving]] is [[drowning]]	@潜水
+diving	The effect of [[diving]] is [[enjoying the sealife underwater]]	@潜水
+diving	The effect of [[diving]] is [[going deep into water]]	@潜水
+diving	The effect of [[diving]] is [[jumping in the water]]	@跳水
+diving	[[diving]] requires [[the ability to swim]]	@潜水
+diving	[[diving]] requires [[a large pool of water]]	@跳水
+diving	Something you might do while [[diving]] is [[jumping into the water head first]]	@跳水
+diving	Something that might happen while [[diving]] is [[making a splash]]	@跳水
+diving	Something you might do while [[diving]] is [[take photographs]]	@潜水
+diving	Something that might happen while [[diving]] is [[you would get wet]]	@跳水
+diving	[[Diving]] is [[an Olympic sport]]	@跳水
+diving	[[Diving]] is for [[descending into the sea]]	@潜水
+diving	[[diving]] is for [[enjoying beautiful scenes]]	@潜水
+diving	[[diving]] is for [[exploring underwater]]	@潜水
+diving	[[diving]] is for [[finding sunken treasure]]	@潜水
+diving	[[diving]] is for [[getting pearls]]	@潜水
+diving	[[diving]] is for [[going underwater]]	@潜水
+diving	[[diving]] is for [[jumping in the water]]	@跳水
+diving	[[diving]] is for [[looking at corals and fish]]	@潜水
+diving	[[diving]] is for [[seeing fish underwater]]	@潜水

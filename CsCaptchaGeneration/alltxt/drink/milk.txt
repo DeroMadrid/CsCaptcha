@@ -1,0 +1,46 @@
+milk	[[milk]] is a type of [[nutriment]]]	@牛奶
+milk	[[milk]] is for [[drinking]]	@牛奶
+milk	[[milk]] is related to [[fluid]]	@牛奶
+milk	[[milk]] is related to [[cow product]]	@牛奶
+milk	[[milk]] is related to [[calcium]]	@牛奶
+milk	[[milk]] is related to [[cow drink]]	@牛奶
+milk	[[cheese]] is related to [[milk]]	@牛奶
+milk	[[milk]] is related to [[drinking]]	@牛奶
+milk	[[cream]] is related to [[milk]]	@牛奶
+milk	[[drink]] is related to [[milk]]	@牛奶
+milk	[[dairy]] is related to [[milk]]	@牛奶
+milk	[[butter]] is related to [[milk]]	@牛奶
+milk	[[milk]] is related to [[dairy drink]]	@牛奶
+milk	You are likely to find [[milk]] in [[a bottle]]	@瓶装牛奶
+milk	*Something you find in [[the freezer]] is [[milk]]	@瓶装牛奶
+milk	[[Milk]] is created by [[cows]].	@牛奶
+milk	[[Milk]] is [[good for babies]]	@奶粉
+milk	[[Milk]] is [[a drink rich in calcium]]	@牛奶
+milk	[[Milk]] is [[one of the liquids commonly]]	@牛奶
+milk	[[Milk]] is [[a solution from a female cow]]	@牛奶
+milk	[[Milk]] is [[a source of the mineral calcium]]	@牛奶
+milk	[[butter]] is made of [[milk]]	@牛奶
+milk	[[A dairy product]] is made of [[milk]].	@牛奶
+milk	[[Milk]] is [[produced by mammals]]	@牛奶
+milk	You can use [[milk]] to [[feed a baby]]	@奶粉
+milk	[[milk]] is related to [[white water]]	@牛奶
+milk	[[milk]] is related to [[cow produce]]	@牛奶
+milk	[[milk]] is related to [[white fluid]]	@牛奶
+milk	[[milk]] is related to [[liquid food]]	@牛奶
+milk	[[milk]] is related to [[breakfast]]	@牛奶
+milk	[[milk]] is related to [[cheese]]	@牛奶
+milk	[[milk]] is related to [[breasts]]	@牛奶
+milk	[[milk]] is related to [[white beverage]]	@牛奶
+milk	[[milk]] is related to [[protein]]	@牛奶
+milk	[[milk]] is related to [[nutritious]]	@牛奶
+milk	[[milk]] is related to [[nutritious drink]]	@牛奶
+milk	[[milk]] is related to [[nutrients]]	@牛奶
+milk	[[milk]] is related to [[baby food]]	@奶粉
+milk	[[milk]] is related to [[baby drinking]]	@奶粉
+milk	[[milk]] is related to [[feeding baby]]	@奶粉
+milk	[[milk]] is related to [[drinks]]	@牛奶
+milk	[[milk]] is related to [[baby juice]]	@奶粉
+milk	[[milk]] is related to [[breakfast drink]]	@牛奶
+milk	[[milk]] is related to [[baby bottles]]	@奶粉
+milk	[[milk]] is related to [[feeding babies]]	@奶粉
+milk	[[milk]] is related to [[feed baby]]	@奶粉

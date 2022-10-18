@@ -1,0 +1,48 @@
+﻿apple	[[apple]] is related to [[fruit]]	@redapple
+apple	[[apple]] is related to [[red]]	@redapple
+apple	[[apple]] can be [[green]]	@greenapple
+apple	[[an apple]] can be [[eaten]]	@redapple
+apple	You are likely to find [[an apple]] in [[apple tree]]	@redapple
+apple	[[an apple]] can [[fall from a tree]]	@redapple
+apple	[[apple]] is for [[eating]] @redapple
+apple	[[An apple]] has [[a core]] @redapple
+apple	[[apple]] is related to [[red fruit]]	@redapple
+apple	[[apple]] is related to [[tree]]	@redapple
+apple	[[apple]] is related to [[adam]]	@redapple
+apple	[[apple]] is related to [[macintosh]]	@redapple
+apple	[[apple]] is related to [[eden]] @redapple
+apple	[[apple]] is related to [[food]] @redapple
+apple	[[apple]] is related to [[adam eve]] @redapple
+apple	[[an apple]] is used for [[making apple pie]] @redapple
+apple	You can use [[an apple]] to [[sate hunger]] @redapple
+apple	[[apple]] is related to [[cider]] @redapple
+apple	[[apple]] is related to [[green fruit]] @greenapple
+apple	[[apple]] is related to [[tree fruit]] @redapple
+apple	[[apple]] is related to [[granny smith]] @greenapple
+apple	[[apple]] is related to [[round fruit]] @redapple
+apple	[[apple]] is related to [[red delicious]] @redapple
+apple	[[apple]] is related to [[peel]] @redapple
+apple	[[apple]] is related to [[newton]] @redapple
+apple	[[apple]] is related to [[mac computer]]	@mac apple
+apple	[[apple]] is related to [[ate]] @redapple
+apple	[[apple]] is related to [[orchard]] @redapple
+apple	[[apple]] is related to [[ball]] @redapple
+apple	[[apple]] is related to [[cider fruit]] @redapple
+apple	You are likely to find [[an apple]] in [[an apple orchard]]	@redapple
+apple	You are likely to find [[an apple]] in [[apple pie]]	@redapple
+apple	Somewhere [[an apple]] can be is in [[a greengrocer]]	@redapple
+apple	You are likely to find [[an apple]] in [[the produce section of the supermarket]]	@redapple
+apple	You are likely to find [[an apple]] in [[the refrigerator]]	@redapple
+apple	[[an apple]] is typically near [[a banana]]	@redapple
+apple	You can use [[an apple]] to [[enjoy the fruit]]	@redapple
+apple	[[an apple]] is for [[illustrating gravity to Sir Isaac Newton]]	@redapple
+apple	[[an apple]] is for [[keeping the doctor away]]	@redapple
+apple	[[an apple]] is used to [[make apple cider]]	@redapple
+apple	You can use [[an apple]] to [[make a pie]]	@redapple
+apple	[[an apple]] is used for [[making applesauce]]	@redapple
+apple	[[an apple]] is for [[munching]]	@redapple
+apple	[[an apple]] is for [[picking from the tree when ripe]]	@redapple
+apple	You can use [[an apple]] to [[test your theory of gravity]]	@redapple
+apple	[[cider]] is related to [[apple]]	@redapple
+apple	[[apple]] is related to [[eve fruit]]	@redapple
+apple	[[apple]] is related to [[red skin]]	@redapple

@@ -1,0 +1,5 @@
+deer	[[A deer]] is [[an animal]]	@deer+animal
+deer	[[A deer]] is [[an animal]]	@deer+animal
+deer	[[a deer]] has [[four legs]]	@deer+animal
+deer	[[A deer]] is [[an animal]]	@deer+animal
+deer	[[a deer]] has [[four legs]]	@deer+animal

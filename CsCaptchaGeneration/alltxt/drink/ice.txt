@@ -1,0 +1,13 @@
+﻿ice	[[ice]] can be [[found in a freezer]]	@白色冰块
+ice	[[ice]] can be [[found on an iceberg]]	@冰山
+ice	[[ice]] is for [[something cold]] @白色冰块
+ice	[[ice]] is used for [[cooling drinks]]	@白色冰块
+ice	[[ice]] is used for [[keeping things cold]]	@白色冰块
+ice	You can use [[ice]] to [[keep things cold]]	@白色冰块
+ice	[[ice]] is related to [[frozen]]	@白色冰块
+ice	[[ice]] is related to [[frozen water]]	@白色冰块
+ice	You are likely to find [[ice]] in [[a freezer]].	@白色冰块
+ice	*Something you find in [[the fridge]] is [[ice]]	@白色冰块
+ice	You are likely to find [[ice]] in [[an ice cream store]]	@白色冰块
+ice	You are likely to find [[ice]] in [[a refrigerator]]	@白色冰块
+ice	[[ice]] is [[cold]]	@白色冰块

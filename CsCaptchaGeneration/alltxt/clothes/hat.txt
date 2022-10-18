@@ -1,0 +1,1 @@
+hat	[[head]] is related to [[hat]]	@hat帽子

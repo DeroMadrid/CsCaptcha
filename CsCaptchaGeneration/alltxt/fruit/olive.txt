@@ -1,0 +1,6 @@
+olive	[[oil]] is related to [[olive]]	@橄榄
+olive	*Something you find in [[the jar]] is [[an olive]]	@橄榄
+olive	[[An olive]] is [[an oily fruit]]	@橄榄
+olive	[[olive]] is related to [[special oil]]	@橄榄油
+olive	[[olive]] is related to [[from tree]]	@橄榄
+olive	[[olive]] is related to [[vegetable]]	@橄榄

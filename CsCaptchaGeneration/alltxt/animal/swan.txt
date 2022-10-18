@@ -1,0 +1,2 @@
+swan	[[a swan]] is [[a bird]]	@天鹅
+swan	[[duck]] is related to [[swan]]	@天鹅

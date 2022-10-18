@@ -1,0 +1,14 @@
+rabbit	[[rabbit]] is related to [[animal]]	@兔子
+rabbit	[[a rabbit]] is [[an animal]]	@兔子
+rabbit	[[rabbit]] is related to [[pet]]	@兔子
+rabbit	[[rabbit]] is related to [[ears]]	@兔子
+rabbit	[[rabbit]] is related to [[mammal]]	@兔子
+rabbit	[[rabbit]] is related to [[long ears]]	@兔子
+rabbit	[[a rabbit]] is [[an animal]]	@兔子
+rabbit	[[A rabbit]] is [[a mammal]]	@兔子
+rabbit	[[rabbit]] is related to [[rodent]]	@兔子
+rabbit	[[rabbit]] is related to [[furry]]	@兔子
+rabbit	[[rabbit]] is related to [[big ears]]	@兔子
+rabbit	[[rabbit]] animal is related to [[carrots]]	@兔子
+rabbit	[[A rabbit]] wants [[a carrot]]	@兔子
+rabbit	[[rabbit]] is related to [[pet]]	@兔子

@@ -1,0 +1,6 @@
+sweater	[[sleeve]] is related to [[sweater]]
+sweater	[[coat]] is related to [[sweater]]
+sweater	[[woolen]] is related to [[sweater]]
+sweater	[[woolen]] is related to [[sweater]]]
+sweater	You are likely to find [[woolen]] in [[a sweater]]
+sweater	You are likely to find [[woolen fabric]] in [[a sweater]]

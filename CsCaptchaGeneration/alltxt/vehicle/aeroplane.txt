@@ -1,0 +1,3 @@
+aeroplane	[[fly]] is related to [[aeroplane]]
+aeroplane	[[an aeroplane]] is [[more expensive than a car]]
+aeroplane	[[an aeroplane]] is [[faster than a car]]

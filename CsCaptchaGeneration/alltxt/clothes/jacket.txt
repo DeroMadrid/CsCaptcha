@@ -1,0 +1,5 @@
+jacket	[[zipper]] is part of [[jacket]]
+jacket	[[sleeve]] is related to [[jacket]]
+jacket	[[jacket]] is related to [[coat]]
+jacket	*Something you find in [[a closet]] is [[a jacket]]
+jacket	[[a jacket]] has [[a zipper]]

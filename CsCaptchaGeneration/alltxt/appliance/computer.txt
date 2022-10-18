@@ -1,0 +1,2 @@
+computer	[[computer]] has [[CPU]]	@电脑
+computer	[[computer]] is related to [[programmer]]	@电脑

@@ -22,13 +22,19 @@ This part of the code refer to the paper:
 
 - This part of code is in `ImageAdversarialNoise/`.
 1. Put all the images you need to add noise into a folder.
-2. Call method `add_new_label()` in `ImageAdversarialNoise/tool.py` to extract new image classes from the challenge images, and save the result in `tmp.txt`.
-3. Copy the contents of `tmp.txt` and add them to the end of the `ImageAdversarialNoise/cls_dict.py`.
-4. Call method `create_csv()` in `ImageAdversarialNoise/tool.py` to generate a csv file.
-5. Edit `input_dir`, `output_dir`, `f2l` in `ImageAdversarialNoise/si_ni_fgsm.py`. 
-6. Execute the command
+
+2. Download the model  [inception_v3.ckpt](https://pan.baidu.com/s/1IoKTSRwVPJ0_Bpk4rpaU6A?pwd=1inc), and put it in `ImageAdversarialNoise/model`
+
+3. Call method `add_new_label()` in `ImageAdversarialNoise/tool.py` to extract new image classes from the challenge images, and save the result in `tmp.txt`.
+
+4. Copy the contents of `tmp.txt` and add them to the end of the `ImageAdversarialNoise/cls_dict.py`.
+
+5. Call method `create_csv()` in `ImageAdversarialNoise/tool.py` to generate a csv file.
+
+6. Edit `input_dir`, `output_dir`, `f2l` in `ImageAdversarialNoise/si_ni_fgsm.py`. 
+
+7. Execute the command
 ```
 ImageAdversarialNoise/si_ni_fgsm.py
 ```
-
 
